@@ -47,7 +47,7 @@
             // 
             // btnShow
             // 
-            this.btnShow.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.btnShow.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
             this.btnShow.BackColor = System.Drawing.SystemColors.ControlLight;
             this.btnShow.Location = new System.Drawing.Point(117, 296);
             this.btnShow.Name = "btnShow";
